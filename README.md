@@ -479,5 +479,11 @@ Geen wijzigingen in de code zijn nodig.
 # Auteurs
  
 Ontwikkeld als onderdeel van het project **Wereldmuseum × Responsible IT**.
- 
+
+**Rolverdeling:**
+**Peter van de Geer** - Data verzamelen in het Wereldmuseum, Blender 3D model bouwen, waypoint navigatie scripting, navmeshsurface/agents aanmaken en aanpassen, colliders toevoegen en op de juiste plaats zetten.
+**Tess Goossens** - Data verzamelen in het wereldmuseum, Excel sheet aanmaken, Script maken om de navigatie van navmeshagents te koppelen in Unity met de gedragsdata van museumbezoekers (CSV).
+**Gloria Daniels** - Data verzamelen in het wereldmuseum.
+**Eliza Wentzel** - Data verzamelen in het wereldmuseum.
+
 De simulatie vertaalt echte observatiegegevens van museumbezoekers naar realistisch gedrag binnen een Unity-omgeving.
