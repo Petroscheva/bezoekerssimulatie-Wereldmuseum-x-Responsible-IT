@@ -1,3 +1,0 @@
-repository "MuSumSim/MuSumSim@9072395989283@cloud"
-  path "/"
-    smartbranch "/main" changeset "24"                                                         
