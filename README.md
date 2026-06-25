@@ -480,7 +480,7 @@ Geen wijzigingen in de code zijn nodig.
  
 Ontwikkeld als onderdeel van het project **Wereldmuseum × Responsible IT**.
 
-**Rolverdeling:**
+## Rolverdeling:
 
 **Peter van de Geer** - Data verzamelen in het Wereldmuseum, Blender 3D model bouwen, waypoint navigatie scripting, navmeshsurface/agents aanmaken en aanpassen, colliders toevoegen en op de juiste plaats zetten.
 
