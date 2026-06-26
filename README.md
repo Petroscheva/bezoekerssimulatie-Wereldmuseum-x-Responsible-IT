@@ -486,8 +486,8 @@ Ontwikkeld als onderdeel van het project **Wereldmuseum × Responsible IT**.
 
 **Tess Goossens** - Data verzamelen in het wereldmuseum, Excel sheet aanmaken, Script maken om de navigatie van navmeshagents te koppelen in Unity met de gedragsdata van museumbezoekers (CSV).
 
-**Gloria Daniël** - Data verzamelen in het wereldmuseum.
+**Gloria Daniël** - Data verzamelen in het wereldmuseum, Observatieanalyse gemaakt van de bezoekersgegevens uit de Excelsheet.
 
-**Eliza Wentzel** - Data verzamelen in het wereldmuseum.
+**Eliza Wentzel** - Data verzamelen in het wereldmuseum, Dataanalyse gemaakt van de bezoekersgegevens uit de Excelsheet.
 
 De simulatie vertaalt echte observatiegegevens van museumbezoekers naar realistisch gedrag binnen een Unity-omgeving.
